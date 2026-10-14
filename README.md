@@ -47,6 +47,6 @@ It consists of two parts :
 
 
 ---------------------------------------------------------------
-##### I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only.
-###### Twitter : <a href="https://twitter.com/AhMythDev"> @AhMythDev </a>
-###### Bitcoin address for donations:  : 1EVwLuwmbsEuej7qJnNquFeQJLsgd2b8Lq
+##### Privat use only! this tool is not suitable for public use and only made for testing and if aquired without permission must be reported and taken down the copy @senestroni34
+###### 
+######
